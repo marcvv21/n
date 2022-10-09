@@ -1,0 +1,29 @@
+{
+  "botprefix": ">",
+  "commands": "139",
+  "lastfmapikey": "02c1cf78a77ec37e8d271b0c9d440ac1",
+  "color": "#eeeeee",
+  "token": "MTAxODA0NTI0NDQ1MDc5OTY0Ng.G3rDFE.tmVvpQ49buUSZjZFgxsG53RPsvIIx0g0OiK19k",
+  "invite": "https://discord.com/api/oauth2/authorize?client_id=857462324779941897&permissions=8&scope=bot",
+  "support": "https://discord.gg/tJ6FWnrQv8",
+  "upvote": "https://discordbotlist.com/bots/crude",
+  "mongooseConnectionString": "mongodb+srv://fred2:heaven10@discordbot.an33j5m.mongodb.net/?retryWrites=true&w=majority",
+  "brando": "261976182872866817",
+  "jaylin": "804160862826397698",
+  "jayv": "886333487433519175",
+  "staff": {
+    "brando": "795386105901744200",
+    "jaylin": "784465812819017810",
+    "calen": "530049414094389268"
+  },
+  "emojis": {
+    "approve": "<:wolfin_approve:952153915242184734>",
+    "deny": "<:wolfin_deny:952153916181708844>",
+    "warn": "<:wolfin_warning:952153919822377040>",
+    "user": "<:user:1004918968806547537>",
+    "ban": "<:ban:1004918963349762049>",
+    "reason": "<:reason:1004918967795728494>",
+    "moderation": "<:mod:1004918966386442272>",
+    "moderator": "<:ban:1004918963349762049>"
+  }
+}
